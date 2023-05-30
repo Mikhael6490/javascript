@@ -8,4 +8,3 @@ var num2 = Number(duo.value)
 var somador = num1 * num2
 ress.innerText = `O resultado de ${num1} x ${num2} é igual a: ${somador}`
 }
-
