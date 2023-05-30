@@ -22,8 +22,6 @@ quadrado.style.background = 'blue'
 
 }
 
-var somador = window.document.querySelector()
-
 function somar()
 {
 var pri = window.document.querySelector('input#txt1')
