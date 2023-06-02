@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body
+{
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+
+div{
+    display: block;
+    background-color: #002fff;
+    width: 30em;
+    height: 35em;
+    margin: auto;
+    margin-top: 5em;
+    text-align: center;
+    line-height: 3em;
+}
