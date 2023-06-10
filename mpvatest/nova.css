@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body
+{
+    background-color: rgb(81, 81, 250);
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div#bloco
+{
+    height: 10em;
+    width: 15em;
+    background-color: rgba(0, 0, 0, 0.753);
+    margin-top: 1em;
+}
