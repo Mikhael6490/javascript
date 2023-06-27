@@ -8,5 +8,5 @@ function test()
     else if (check >= 18 && check <= 66) { result.innerHTML=`voto abrigatório`}
     else if (check > 66 && check < 100) {result.innerHTML = `voto opcional`}
     else {result.innerHTML= `ainda tá vivo?`}
-
 }
+

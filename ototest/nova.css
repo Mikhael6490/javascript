@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body
+{
+    background-color: #000041;
+    color: #fff;
+}
+
+div
+{
+    background-color: #0e0180;
+    width: 45em;
+    height: 35em;
+    margin: auto;
+
+}
+
+input#idade
+{
+    display: block;
+    margin: auto;
+}
+
+input#click
+{
+    display: block;
+    margin:auto;
+    margin-top: 10px;
+
+}
+
+p#ress
+{
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    padding-top: 1em;
+}
